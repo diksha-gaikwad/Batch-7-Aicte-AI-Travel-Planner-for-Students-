@@ -1,0 +1,101 @@
+﻿ID,City,Place,Type,Best Time,Entry Fee
+1,Pune,Shaniwar Wada,Fort,Oct-Feb,25
+2,Pune,Aga Khan Palace,Monument,Oct-Feb,25
+3,Pune,Sinhagad Fort,Hill Fort,Jul-Feb,0
+4,Pune,Dagdusheth Halwai Ganpati Temple,Temple,All Year,0
+5,Pune,Raja Dinkar Kelkar Museum,Museum,Oct-Mar,50
+6,Pune,Pataleshwar Cave Temple,Temple,All Year,0
+7,Pune,Parvati Hill,Hill/Temple,Oct-Feb,0
+8,Pune,Lal Mahal,Historic Site,Oct-Feb,0
+9,Pune,Rajiv Gandhi Zoological Park,Zoo,Oct-Mar,50
+10,Pune,Okayama Friendship Garden,Garden,All Year,10
+11,Pune,Vetal Tekdi,Hill,Oct-Feb,0
+12,Pune,Khadakwasla Dam,Dam,Jul-Feb,0
+13,Pune,Mulshi Dam,Dam,Jul-Feb,0
+14,Pune,Empress Garden,Garden,Oct-Mar,30
+15,Pune,Chaturshringi Temple,Temple,All Year,0
+16,Pune,Bund Garden,Garden,Oct-Feb,0
+17,Pune,Panshet Dam,Dam,Jul-Feb,0
+18,Pune,Katraj Lake,Lake,All Year,0
+19,Pune,Katraj Jain Temple,Temple,All Year,0
+20,Pune,National War Memorial,Memorial,All Year,0
+21,Pune,Osho Ashram,Ashram,All Year,100
+22,Pune,Karla Caves,Caves,Oct-Mar,40
+23,Pune,Bhaja Caves,Caves,Oct-Mar,40
+24,Pune,Lohagad Fort,Fort,Jul-Feb,20
+25,Pune,Visapur Fort,Fort,Jul-Feb,20
+26,Pune,Tikona Fort,Fort,Jul-Feb,20
+27,Pune,Torna Fort,Fort,Jul-Feb,20
+28,Pune,Purandar Fort,Fort,Jul-Feb,20
+29,Pune,Rajgad Fort,Fort,Jul-Feb,20
+30,Pune,Shivneri Fort,Fort,Jul-Feb,20
+31,Pune,Jejuri Temple,Temple,All Year,0
+32,Pune,Diamond Water Park,Water Park,All Year,800
+33,Pune,Sentosa Water Park,Water Park,All Year,900
+34,Pune,Pune University,Historic Campus,All Year,0
+35,Mumbai,Gateway of India,Monument,Nov-Feb,0
+36,Mumbai,Marine Drive,Seafront,Oct-Mar,0
+37,Mumbai,Elephanta Caves,Caves,Nov-Feb,40
+38,Mumbai,CSMT Railway Station,Heritage Site,All Year,0
+39,Mumbai,Siddhivinayak Temple,Temple,All Year,0
+40,Mumbai,Haji Ali Dargah,Dargah,All Year,0
+41,Mumbai,Juhu Beach,Beach,Oct-Mar,0
+42,Mumbai,Girgaon Chowpatty,Beach,Oct-Mar,0
+43,Mumbai,Sanjay Gandhi National Park,National Park,Oct-Mar,60
+44,Mumbai,Kanheri Caves,Caves,Oct-Mar,40
+45,Mumbai,Bandra-Worli Sea Link,Bridge,All Year,0
+46,Mumbai,Colaba Causeway,Market,All Year,0
+47,Mumbai,Global Vipassana Pagoda,Pagoda,All Year,0
+48,Mumbai,Nehru Science Centre,Museum,All Year,70
+49,Mumbai,Taraporewala Aquarium,Aquarium,All Year,60
+50,Mumbai,Film City,Film Studio,All Year,650
+51,Mumbai,Powai Lake,Lake,All Year,0
+52,Mumbai,Mahalaxmi Temple,Temple,All Year,0
+53,Mumbai,Mount Mary Church,Church,All Year,0
+54,Mumbai,Flora Fountain,Fountain,All Year,0
+55,Mumbai,Mani Bhavan,Museum,All Year,20
+56,Mumbai,EsselWorld,Amusement Park,All Year,1200
+57,Mumbai,Water Kingdom,Water Park,All Year,1200
+58,Mumbai,Versova Beach,Beach,Oct-Mar,0
+59,Mumbai,Aksa Beach,Beach,Oct-Mar,0
+60,Mumbai,Worli Sea Face,Seafront,Oct-Mar,0
+61,Mumbai,ISKCON Temple,Temple,All Year,0
+62,Mumbai,Snow World,Indoor Park,All Year,600
+63,Mumbai,Crawford Market,Market,All Year,0
+64,Mumbai,Rajabai Clock Tower,Heritage Site,All Year,0
+65,Mumbai,Banganga Tank,Historic Site,All Year,0
+66,Mumbai,Sewri Fort,Fort,Oct-Mar,0
+67,Mumbai,Madh Island,Island,Oct-Mar,0
+68,Delhi,India Gate,Memorial,Oct-Mar,0
+69,Delhi,Red Fort,Fort,Oct-Mar,35
+70,Delhi,Qutub Minar,Monument,Oct-Mar,35
+71,Delhi,Humayun's Tomb,Tomb,Oct-Mar,35
+72,Delhi,Lotus Temple,Temple,All Year,0
+73,Delhi,Akshardham Temple,Temple,All Year,0
+74,Delhi,Jama Masjid,Mosque,All Year,0
+75,Delhi,Rashtrapati Bhavan,Government Building,Oct-Mar,50
+76,Delhi,Chandni Chowk,Market,All Year,0
+77,Delhi,Lodhi Garden,Park,All Year,0
+78,Delhi,Raj Ghat,Memorial,All Year,0
+79,Delhi,National Museum,Museum,All Year,20
+80,Delhi,Connaught Place,Commercial Area,All Year,0
+81,Delhi,Garden of Five Senses,Park,Oct-Mar,35
+82,Delhi,Purana Qila,Fort,Oct-Mar,30
+83,Delhi,Agrasen ki Baoli,Stepwell,All Year,0
+84,Delhi,Safdarjung Tomb,Tomb,Oct-Mar,25
+85,Delhi,National Rail Museum,Museum,All Year,50
+86,Delhi,Nehru Planetarium,Planetarium,All Year,60
+87,Delhi,Hauz Khas Village,Historic Area,All Year,0
+88,Delhi,Dilli Haat,Market,All Year,30
+89,Delhi,Kingdom of Dreams,Entertainment Complex,All Year,1500
+90,Delhi,Tughlaqabad Fort,Fort,Oct-Mar,25
+91,Delhi,National Zoological Park,Zoo,Oct-Mar,40
+92,Delhi,ISKCON Temple Delhi,Temple,All Year,0
+93,Delhi,Birla Mandir,Temple,All Year,0
+94,Delhi,Jantar Mantar,Observatory,Oct-Mar,25
+95,Delhi,Mehrauli Archaeological Park,Archaeological Park,Oct-Mar,0
+96,Delhi,Waste to Wonder Park,Theme Park,All Year,50
+97,Delhi,National Gallery of Modern Art,Museum,All Year,20
+98,Delhi,Shankar Dolls Museum,Museum,All Year,15
+99,Delhi,Adventure Island,Amusement Park,All Year,1000
+100,Delhi,Worlds of Wonder,Amusement Park,All Year,1200
