@@ -21,19 +21,19 @@ The system predicts destinations such as Delhi, Mumbai, and Pune, generates pers
 
 🛠️ Technologies Used
 
-Python
+| Tool / Technology | Description                                                           |
+| ----------------- | --------------------------------------------------------------------- |
+| Python            | Main programming language used to build the application logic         |
+| Flask             | Backend web framework used to handle routing and requests             |
+| Scikit-learn      | Machine learning library used to train and build the prediction model |
+| HTML              | Used to create the structure of the web pages                         |
+| CSS               | Used to design and style the user interface                           |
+| Pickle            | Used to save and load the trained machine learning model              |
+| Hugging Face API  | Provides AI model integration for enhanced intelligent features       |
+| Google Gemini API | Used for advanced AI recommendations and itinerary generation         |
 
-Flask
 
-Scikit-learn
 
-HTML / CSS
-
-Pickle
-
-Hugging Face API
-
-Google Gemini API
 
 📂 Project Structure
 
