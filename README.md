@@ -69,8 +69,8 @@ The system generates an itinerary and displays related city images.
 
 ▶️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ai-travel-recommendation.git
-cd ai-travel-recommendation
+git clone https://github.com/diksha-gaikwad/Batch-7-Aicte-AI-Travel-Planner-for-Students.git
+cd Batch-7-Aicte-AI-Travel-Planner-for-Students
 
 2️⃣ Install Dependencies
 
