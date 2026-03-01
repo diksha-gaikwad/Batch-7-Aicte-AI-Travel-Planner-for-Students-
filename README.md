@@ -67,18 +67,42 @@ The model predicts the most suitable travel destination.
 
 The system generates an itinerary and displays related city images.
 
+
+
 ▶️ Installation & Setup
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/diksha-gaikwad/Batch-7-Aicte-AI-Travel-Planner-for-Students.git
 cd Batch-7-Aicte-AI-Travel-Planner-for-Students
 
 2️⃣ Install Dependencies
 
+Flask==3.1.3
 
-3️⃣ Run the Application
+pandas==3.0.1
+
+python-dotenv==1.2.1
+
+Requests==2.32.5
+
+
+scikit_learn==1.8.0
+
+
+3️⃣ Add Your AI API Token
+
+Open config.py or create a .env file:
+
+AI_API_KEY = "your_api_token_here"
+
+or
+
+AI_API_KEY=your_api_token_here
+
+4️⃣ Run the Application
+
 python app_flask.py
 
-
-Open your browser and visit:
-
-http://127.0.0.1:5000
+5️⃣ Open in Browser
+Visit: http://127.0.0.1:5000
