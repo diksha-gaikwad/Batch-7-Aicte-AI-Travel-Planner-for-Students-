@@ -1,9 +1,11 @@
 🧳 AI Travel Recommendation System
+
+
 📌 Overview
 
 The AI Travel Recommendation System is a Flask-based web application that uses Artificial Intelligence (AI) and a Machine Learning classification model to recommend the best travel destination based on user preferences.
 
-The system predicts destinations such as Delhi, Mumbai, and Pune, generates personalized travel itineraries, and displays related city images dynamically. It can also integrate modern AI APIs like Hugging Face API and Google Gemini API for enhanced intelligent recommendations.
+The system predicts destinations such as Delhi, Mumbai, Pune, and others, generates personalized travel itineraries, and dynamically displays related city images. It can also integrate modern AI APIs, such as the Hugging Face API and Google Gemini API, to provide enhanced intelligent recommendations.
 
 🚀 Features
 
@@ -47,13 +49,13 @@ The system predicts destinations such as Delhi, Mumbai, and Pune, generates pers
 ├── templates/
 
 
-│   └── index.html 
+├── index.html 
 
 
 ├── static/ 
 
 
-└── ai-travel.csv        
+├── ai-travel.csv        
 
 ⚙️ How It Works
 
